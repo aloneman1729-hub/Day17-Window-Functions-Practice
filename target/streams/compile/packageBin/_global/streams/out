@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/prudhvi/Day17-Window-Functions-Practice/target/scala-2.12/day17-window-functions-practice_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prudhvi/Day17-Window-Functions-Practice/target/scala-2.12/classes/data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/students.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prudhvi/Day17-Window-Functions-Practice/target/scala-2.12/classes/data/students.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/routes.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prudhvi/Day17-Window-Functions-Practice/target/scala-2.12/classes/data/routes.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/policies.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prudhvi/Day17-Window-Functions-Practice/target/scala-2.12/classes/data/policies.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prudhvi/Day17-Window-Functions-Practice/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/day17window[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prudhvi/Day17-Window-Functions-Practice/target/scala-2.12/classes/com/day17window[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/day17window/WindowFunctionsApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prudhvi/Day17-Window-Functions-Practice/target/scala-2.12/classes/com/day17window/WindowFunctionsApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/day17window/WindowFunctionsApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prudhvi/Day17-Window-Functions-Practice/target/scala-2.12/classes/com/day17window/WindowFunctionsApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

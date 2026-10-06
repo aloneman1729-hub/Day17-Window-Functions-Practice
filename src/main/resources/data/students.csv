@@ -1,0 +1,14 @@
+student_id,student_name,course,department,score
+S001,Aarav,Scala,Computer Science,95
+S002,Diya,Scala,Computer Science,88
+S003,Rohan,Scala,Computer Science,95
+S004,Ananya,Scala,Computer Science,82
+S005,Kiran,Spark,Data Engineering,91
+S006,Meera,Spark,Data Engineering,85
+S007,Arjun,Spark,Data Engineering,91
+S008,Ishita,Spark,Data Engineering,78
+S009,Vikram,Python,Computer Science,89
+S010,Neha,Python,Computer Science,94
+S011,Riya,Python,Computer Science,89
+S012,Manoj,Python,Computer Science,80
+
